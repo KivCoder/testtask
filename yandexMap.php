@@ -6,7 +6,6 @@
     <div id="map" style="width: 600px; height: 400px"></div>
 </body>
 <script>
-<?echo "123"?>
 // ymaps.findOrganization('1019991834').then(
 // function (orgGeoObject) {
 // console.log('Структура данных огранизации:');

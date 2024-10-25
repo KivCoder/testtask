@@ -7,6 +7,7 @@
 </body>
 <script>
 //testemplate
+//vety nice comment
 // ymaps.findOrganization('1019991834').then(
 // function (orgGeoObject) {
 // console.log('Структура данных огранизации:');
